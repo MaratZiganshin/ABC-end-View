@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b6ea73a57b897cc43be05608484c3ee6
+timeCreated: 1485449410
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Evolventa
+  fontNames:
+  - Evolventa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
